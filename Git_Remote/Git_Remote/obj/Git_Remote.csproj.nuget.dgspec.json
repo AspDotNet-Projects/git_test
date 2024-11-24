@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ali.pazdar\\Desktop\\Git-Test\\Git_Remote\\Git_Remote\\Git_Remote.csproj": {}
+    "C:\\Users\\Ali\\Desktop\\git_test\\Git_Remote\\Git_Remote\\Git_Remote.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ali.pazdar\\Desktop\\Git-Test\\Git_Remote\\Git_Remote\\Git_Remote.csproj": {
+    "C:\\Users\\Ali\\Desktop\\git_test\\Git_Remote\\Git_Remote\\Git_Remote.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ali.pazdar\\Desktop\\Git-Test\\Git_Remote\\Git_Remote\\Git_Remote.csproj",
+        "projectUniqueName": "C:\\Users\\Ali\\Desktop\\git_test\\Git_Remote\\Git_Remote\\Git_Remote.csproj",
         "projectName": "Git_Remote",
-        "projectPath": "C:\\Users\\ali.pazdar\\Desktop\\Git-Test\\Git_Remote\\Git_Remote\\Git_Remote.csproj",
-        "packagesPath": "C:\\Users\\ali.pazdar\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ali.pazdar\\Desktop\\Git-Test\\Git_Remote\\Git_Remote\\obj\\",
+        "projectPath": "C:\\Users\\Ali\\Desktop\\git_test\\Git_Remote\\Git_Remote\\Git_Remote.csproj",
+        "packagesPath": "C:\\Users\\Ali\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Ali\\Desktop\\git_test\\Git_Remote\\Git_Remote\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\ali.pazdar\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Ali\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -54,7 +54,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.416\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.402\\RuntimeIdentifierGraph.json"
         }
       }
     }
