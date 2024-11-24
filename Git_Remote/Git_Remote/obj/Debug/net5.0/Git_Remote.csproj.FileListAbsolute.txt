@@ -1,0 +1,16 @@
+C:\Users\ali.pazdar\Desktop\Git-Test\Git_Remote\Git_Remote\bin\Debug\net5.0\Git_Remote.exe
+C:\Users\ali.pazdar\Desktop\Git-Test\Git_Remote\Git_Remote\bin\Debug\net5.0\Git_Remote.deps.json
+C:\Users\ali.pazdar\Desktop\Git-Test\Git_Remote\Git_Remote\bin\Debug\net5.0\Git_Remote.runtimeconfig.json
+C:\Users\ali.pazdar\Desktop\Git-Test\Git_Remote\Git_Remote\bin\Debug\net5.0\Git_Remote.runtimeconfig.dev.json
+C:\Users\ali.pazdar\Desktop\Git-Test\Git_Remote\Git_Remote\bin\Debug\net5.0\Git_Remote.dll
+C:\Users\ali.pazdar\Desktop\Git-Test\Git_Remote\Git_Remote\bin\Debug\net5.0\ref\Git_Remote.dll
+C:\Users\ali.pazdar\Desktop\Git-Test\Git_Remote\Git_Remote\bin\Debug\net5.0\Git_Remote.pdb
+C:\Users\ali.pazdar\Desktop\Git-Test\Git_Remote\Git_Remote\obj\Debug\net5.0\Git_Remote.csproj.AssemblyReference.cache
+C:\Users\ali.pazdar\Desktop\Git-Test\Git_Remote\Git_Remote\obj\Debug\net5.0\Git_Remote.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ali.pazdar\Desktop\Git-Test\Git_Remote\Git_Remote\obj\Debug\net5.0\Git_Remote.AssemblyInfoInputs.cache
+C:\Users\ali.pazdar\Desktop\Git-Test\Git_Remote\Git_Remote\obj\Debug\net5.0\Git_Remote.AssemblyInfo.cs
+C:\Users\ali.pazdar\Desktop\Git-Test\Git_Remote\Git_Remote\obj\Debug\net5.0\Git_Remote.csproj.CoreCompileInputs.cache
+C:\Users\ali.pazdar\Desktop\Git-Test\Git_Remote\Git_Remote\obj\Debug\net5.0\Git_Remote.dll
+C:\Users\ali.pazdar\Desktop\Git-Test\Git_Remote\Git_Remote\obj\Debug\net5.0\ref\Git_Remote.dll
+C:\Users\ali.pazdar\Desktop\Git-Test\Git_Remote\Git_Remote\obj\Debug\net5.0\Git_Remote.pdb
+C:\Users\ali.pazdar\Desktop\Git-Test\Git_Remote\Git_Remote\obj\Debug\net5.0\Git_Remote.genruntimeconfig.cache

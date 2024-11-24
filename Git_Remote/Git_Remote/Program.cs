@@ -6,7 +6,10 @@ namespace Git_Remote
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello world;");
+            int num = 1369;
+            Object obj = num;  
+            Console.WriteLine("num:"+num);
+            Console.WriteLine("obg:"+obj);
             Console.ReadLine();
         }
     }
